@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#About me:
+# About me:
 
 ## 💻 Tech Stack:
 Languages:

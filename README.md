@@ -2,6 +2,12 @@
 
 # About me:
 
+I'm a software engineer. I use a PC with my-own-written custom system apps - some of them are available on GitHub. I started coding in high school in the IT classes, I used C++ then. Now I mostly use the tech stack specified below. I work as a software engineer in AI training.
+
+I'm also a linguist. I worked for 2 years in the Artificial Intelligence Department at the Technical University of Wroclaw. I've written a PhD on language attrition. I specialize in phonetics, phonology, computational linguistics, corpus linguistics, sociolinguistics and psycholinguistics. 
+
+I'm also a certified financial market analyst. I specialize in technical and fundamental analysis and valuation of equities, mostly stocks and bonds. 
+
 ## 💻 Tech Stack:
 Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

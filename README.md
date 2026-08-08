@@ -8,6 +8,8 @@ I'm also a linguist. I worked for 2 years in the Artificial Intelligence Departm
 
 I'm also a certified financial market analyst. I specialize in technical and fundamental analysis and valuation of equities, mostly stocks and bonds. 
 
+I'm also a sound engineer, after an audio engineering course.
+
 ## 💻 Tech Stack:
 Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

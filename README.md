@@ -20,8 +20,7 @@ Languages:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-ML/DL:
-![PyQt5](https://img.shields.io/badge/PyQt5-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
+Libraries:
 ![PyAudio](https://img.shields.io/badge/PyAudio-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![simpleaudio](https://img.shields.io/badge/simpleaudio-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -31,8 +30,10 @@ ML/DL:
 ![pyzipper](https://img.shields.io/badge/pyzipper-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
-Frameworks, platforms & libraries:
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+Frameworks & Runtimes:
+![PyQt5](https://img.shields.io/badge/PyQt5-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

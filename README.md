@@ -48,6 +48,7 @@ Other:
 Developer Tools:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-%23000000.svg?style=for-the-badge&logo=tmux&logoColor=white)
+![DB Browser for SQLite](https://img.shields.io/badge/DB_Browser_for_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)

@@ -22,6 +22,7 @@ Languages:
 
 Libraries:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![yahoo-finance2](https://img.shields.io/badge/yahoo--finance2-430297?style=for-the-badge&logo=yahoo&logoColor=white)
 ![PyAudio](https://img.shields.io/badge/PyAudio-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![simpleaudio](https://img.shields.io/badge/simpleaudio-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![mutagen](https://img.shields.io/badge/mutagen-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -29,6 +30,7 @@ Libraries:
 ![btpair](https://img.shields.io/badge/btpair-%230082FC.svg?style=for-the-badge&logo=bluetooth&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![pyzipper](https://img.shields.io/badge/pyzipper-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 
 Frameworks:
 ![PyQt5](https://img.shields.io/badge/PyQt5-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
@@ -42,7 +44,7 @@ Runtimes:
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 
 Databases:
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![sqlite3](https://img.shields.io/badge/sqlite3-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 Other:

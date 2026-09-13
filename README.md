@@ -61,5 +61,6 @@ Developer Tools:
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Icon Composer](https://img.shields.io/badge/Icon%20Composer-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 

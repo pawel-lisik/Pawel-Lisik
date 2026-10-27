@@ -23,6 +23,7 @@ Languages:
 Libraries:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![yahoo-finance2](https://img.shields.io/badge/yahoo--finance2-430297?style=for-the-badge&logo=yahoo&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![PyAudio](https://img.shields.io/badge/PyAudio-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![simpleaudio](https://img.shields.io/badge/simpleaudio-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![mutagen](https://img.shields.io/badge/mutagen-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
